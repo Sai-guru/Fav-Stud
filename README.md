@@ -3,6 +3,7 @@
 This is a simple React application that allows users to manage a list of students and their favorites. The app provides two main pages:
 - **Main List of Students**: Users can add student names and manage the list.
 - **Favorite Students**: Displays the list of students marked as favorites.
+  - view here : https://fav-stud-rho.vercel.app/
 
 ## Features
 
